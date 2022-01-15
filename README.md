@@ -5,8 +5,10 @@
 | Name | Description | Root/Nonroot | Author | Minimum Android version |
 | :---: | :---: | :---: | :---: | :---: |
 | [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client with a modern UI | Nonroot | AuroraOSS | 5.0+ |
-| [AdAway v4](https://adaway.org/) | Open-source ad blocker | Root + Nonroot | AdAway | 4.1+ |
+| [AdAway v4](https://adaway.org/) | Open-source ad blocker. Legacy version, v5 is recommended | Root + Nonroot | AdAway | 4.1+ |
 | [AdAway v5](https://adaway.org/) | Open-source ad blocker | Root + Nonroot | AdAway | 8.0+ |
+| [Blokada 4](https://blokada.org/) | Open-source ad blocker. Slower than Blokada 5 | Root + Nonroot | Blocka AB | 5.0+ |
+| [Blokada 5](https://blokada.org/) | Open-source ad blocker | Root + Nonroot | Blocka AB | 7.0+ |
 | [F-Droid](https://f-droid.org/) | An alternative app store with FOSS apps | Nonroot | F-Droid Limited | 5.1+ |
 | [GCam 8.0+](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Nonroot | multiple | 10.0+ |
 | [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Nonroot | TheDise | 5.0+ |

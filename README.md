@@ -11,6 +11,7 @@
 | [GCam 7.2/7.3](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Nonroot | multiple | 9.0+ |
 | [GCam 8.0+](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Nonroot | multiple | 10.0+ |
 | [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Nonroot | TheDise | 5.0+ |
+| [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer. Supports many cloud services | Root + Nonroot | HootanParsa | 2.2+ | 
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client. Supports video/audio downloading | Nonroot | Team NewPipe | 4.4+ |
 | [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe. Supports video/audio downloading | Nonroot | Team NewPipe | 4.1+ |
 | [YouTube Vanced](https://vancedapp.com/) | Ad-free YouTube client, with SponsorBlock integration, AMOLED dark mode, PIP, and more | Root + Nonroot | Team Vanced | 5.0+ |

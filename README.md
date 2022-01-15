@@ -20,5 +20,4 @@
 
 | Name | Description | Root/Nonroot | Author | Minimum Android version |
 | :---: | :---: | :---: | :---: | :---: |
-
 | [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | Ad-free YouTube client for Android TV, with SponsorBlock integration and many advanced features | Nonroot | yuliskov | TV 4.3+ |

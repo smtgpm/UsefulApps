@@ -5,6 +5,6 @@ This is an actively maintained list of useful Android apps. Some really good app
 ## Platforms
 | Platform | List |
 | :-: | :-: |
-| Android | [List](Android/Apps.md) |
-| Android TV | [List](Android/Apps-TV.md) |
+| Android | [Available](Android/Apps.md) |
+| Android TV | [Available](Android/Apps-TV.md) |
 | Android Wear (WearOS) | Not available |

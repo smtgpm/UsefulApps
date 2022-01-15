@@ -17,7 +17,7 @@
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client. Supports video/audio downloading | The UI looks outdated | Nonroot | Team NewPipe | 4.4+ |
 | [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe. Supports video/audio downloading | The UI looks outdated | Nonroot | Team NewPipe | 4.1+ |
 | [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | None | Nonroot | Didla | 5.0+ |
-| [Vpier4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Doesn't fully support <arm> devices | Root | Team DeWitt | 6.0+ |
+| [Vpier4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Doesn't fully support arm32 devices | Root | Team DeWitt | 6.0+ |
 | [YouTube Vanced](https://vancedapp.com/) | Ad-free YouTube client, with SponsorBlock integration, AMOLED dark mode, PIP, and more | Casting doesn't work in the Nonroot version | Root + Nonroot | Team Vanced | 5.0+ |
 | [XManager for Spotify](https://github.com/xManager-v2/xManager-Spotify) | Ad-free Spotify installer / manager | None | Nonroot | xC3FFF0E | 5.0+ |
 

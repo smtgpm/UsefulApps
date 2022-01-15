@@ -1,7 +1,7 @@
 # Useful-Android-Apps
 
 | Name | Description | Root/Nonroot | Author | Minimum Android version |
-| :---: | :---: | :---: | :---: | :---: |
+| :----: | :---: | :----: | :----: | :--: |
 | [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client with a modern UI | Nonroot | AuroraOSS | 5.0+ |
 | [AdAway v4](https://adaway.org/) | Open-source ad blocker | Root + Nonroot | AdAway | 4.1+ |
 | [AdAway v5](https://adaway.org/) | Open-source ad blocker | Root + Nonroot | AdAway | 8.0+ |

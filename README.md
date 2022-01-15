@@ -1,5 +1,7 @@
 # Useful Android Apps
 
+## Android
+
 | Name | Description | Root/Nonroot | Author | Minimum Android version |
 | :---: | :---: | :---: | :---: | :---: |
 | [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client with a modern UI | Nonroot | AuroraOSS | 5.0+ |
@@ -12,3 +14,8 @@
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client. Supports video/audio downloading | Nonroot | Team NewPipe | 4.4+ |
 | [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe. Supports video/audio downloading | Nonroot | Team NewPipe | 4.1+ |
 | [YouTube Vanced](https://vancedapp.com/) | Ad-free YouTube client, with SponsorBlock integration, AMOLED dark mode, PIP, and more | Root + Nonroot | Team Vanced | 5.0+ |
+| [XManager for Spotify](https://github.com/xManager-v2/xManager-Spotify) | Ad-free Spotify installer / manager | Nonroot | xC3FFF0E | 5.0+ |
+
+## Android TV
+
+| [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | Ad-free YouTube client for Android TV, with SponsorBlock integration and many advanced features | Nonroot | yuliskov | TV 4.3+ |

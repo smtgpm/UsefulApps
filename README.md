@@ -1,4 +1,4 @@
-# Useful-Android-Apps
+# Useful Android Apps
 
 | Name | Description | Root/Nonroot | Author | Minimum Android version |
 | :---: | :---: | :---: | :---: | :---: |

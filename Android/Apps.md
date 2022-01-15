@@ -1,5 +1,3 @@
-# Useful Android Apps
-
 ## Android
 
 | Name | Description | Known issues | Root/Nonroot | Author | Minimum Android version |

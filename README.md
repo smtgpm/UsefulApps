@@ -8,7 +8,6 @@
 | [AdAway v4](https://adaway.org/) | Open-source ad blocker | Root + Nonroot | AdAway | 4.1+ |
 | [AdAway v5](https://adaway.org/) | Open-source ad blocker | Root + Nonroot | AdAway | 8.0+ |
 | [F-Droid](https://f-droid.org/) | An alternative app store with FOSS apps | Nonroot | F-Droid Limited | 5.1+ |
-| [GCam 7.2/7.3](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Nonroot | multiple | 9.0+ |
 | [GCam 8.0+](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Nonroot | multiple | 10.0+ |
 | [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Nonroot | TheDise | 5.0+ |
 | [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer. Supports many cloud services | Root + Nonroot | HootanParsa | 2.2+ | 

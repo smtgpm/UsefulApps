@@ -1,21 +1,21 @@
 ## Android
 
-| Name | Description | Known issues | Root/Nonroot | Author | Minimum Android version |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client with a modern UI | None | Nonroot | AuroraOSS | 5.0+ |
-| [AdAway v4](https://adaway.org/) | Open-source ad blocker. Legacy version, v5 is recommended | None | Root + Nonroot | AdAway | 4.1+ |
-| [AdAway v5](https://adaway.org/) | Open-source ad blocker | None | Root + Nonroot | AdAway | 8.0+ |
-| [Blokada 4](https://blokada.org/) | Open-source ad blocker. Legacy version, slower than Blokada 5 | None | Root + Nonroot | Blocka AB | 5.0+ |
-| [Blokada 5](https://blokada.org/) | Open-source ad blocker | None | Root + Nonroot | Blocka AB | 7.0+ |
-| [Dolby Atmos](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module) | Dolby Atmos equalizer for Android | Improper installation can cause bootloops | Root | reiryuki | 9.0+ |
-| [F-Droid](https://f-droid.org/) | An alternative app store with FOSS apps | None | Nonroot | F-Droid Limited | 5.1+ |
-| [GCam 8.0+](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Doesn't work well on Exynos, MediaTek or Kirin devices | Nonroot | multiple | 10.0+ |
-| [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | None | Nonroot | TheDise | 5.0+ |
-| [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer. Supports many cloud services | None | Root + Nonroot | HootanParsa | 2.2+ | 
-| [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client. Supports video/audio downloading | The UI looks outdated | Nonroot | Team NewPipe | 4.4+ |
-| [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe. Supports video/audio downloading | The UI looks outdated | Nonroot | Team NewPipe | 4.1+ |
-| [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | None | Nonroot | Didla | 5.0+ |
-| [Vpier4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Doesn't fully support arm32 devices | Root | Team DeWitt | 6.0+ |
-| [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) | Free and modern equalizer for Android | None | Nonroot | pittvandewitt | 9.0+ |
-| [YouTube Vanced](https://vancedapp.com/) | Ad-free YouTube client, with SponsorBlock integration, AMOLED dark mode, PIP, and more | Casting doesn't work in the Nonroot version | Root + Nonroot | Team Vanced | 5.0+ |
-| [XManager for Spotify](https://github.com/xManager-v2/xManager-Spotify) | Ad-free Spotify installer / manager | None | Nonroot | xC3FFF0E | 5.0+ |
+| Name | Description | Features | Known issues | Root/Nonroot | Author | Minimum Android version |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client | Modern UI, more repositories to choose from | None | Nonroot | AuroraOSS | 5.0+ |
+| [AdAway v4](https://adaway.org/) | Open-source ad blocker | Works on older devices | Legacy version, slower than v5 | Root + Nonroot | AdAway | 4.1+ |
+| [AdAway v5](https://adaway.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | AdAway | 8.0+ |
+| [Blokada 4](https://blokada.org/) | Open-source ad blocker | Works on older devices | Legacy version, slower than Blokada 4. | Root + Nonroot | Blocka AB | 5.0+ |
+| [Blokada 5](https://blokada.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | Blocka AB | 7.0+ |
+| [Dolby Atmos](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module) | Dolby Atmos equalizer for Android | Works both with and without headphones, has presets for different types of content | Improper installation can cause bootloops | Root | reiryuki | 9.0+ |
+| [F-Droid](https://f-droid.org/) | An alternative app store | Only has FOSS apps by default | The UI looks outdated | Nonroot | F-Droid Limited | 5.1+ |
+| [GCam 8.0+](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Gives significantly better picture quality | Doesn't work well on Exynos, MediaTek or Kirin devices | Nonroot | multiple | 10.0+ |
+| [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Ad blocking, image downloading, allows for seeing messages without marking them as "read" | None | Nonroot | TheDise | 5.0+ |
+| [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer | Supports many cloud services (MEGA, MediaFire, Google Drive, Dropbox, Yandex, etc.), simple design | None | Root + Nonroot | HootanParsa | 2.2+ | 
+| [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | The UI looks outdated | Nonroot | Team NewPipe | 4.4+ |
+| [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | The UI looks outdated | Nonroot | Team NewPipe | 4.1+ |
+| [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | Allows securely transfering files between Android, iOS, MacOS, Linux and Windows, for free | None | Nonroot | Didla | 5.0+ |
+| [Vpier4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Equalizer, compressor, Gain + many more, much greater control over sound quality than Dolby Atmos | Doesn't fully support arm32 devices | Root | Team DeWitt | 6.0+ |
+| [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) | Free and modern equalizer for Android | Simple to use, doesn't require root | None | Nonroot | pittvandewitt | 9.0+ |
+| [YouTube Vanced](https://vancedapp.com/) | 3rd party YouTube Client | Ad blocking, SponsorBlock, old comment section layout, PiP, Return YouTube Dislike integration, and much more | Casting doesn't work in the Nonroot version | Root + Nonroot | Team Vanced | 5.0+ |
+| [XManager for Spotify](https://github.com/xManager-v2/xManager-Spotify) | Ad-free Spotify installer / manager | Simple to use, allows downgrading and updating an ad-free version of Spotify | None | Nonroot | xC3FFF0E | 5.0+ |

@@ -1,6 +1,6 @@
 ## Android
 
-| Name | Description | Features | Known issues | Root/Nonroot | Author | Minimum Android version |
+| Name | Description | Features | Disadvantages | Root/Nonroot | Author | Minimum Android version |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client | Modern UI, more repositories to choose from | None | Nonroot | AuroraOSS | 5.0+ |
 | [AdAway v4](https://adaway.org/) | Open-source ad blocker | Works on older devices | Legacy version, slower than v5 | Root + Nonroot | AdAway | 4.1+ |

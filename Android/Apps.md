@@ -6,7 +6,7 @@
 | [AdAway v3](https://github.com/AdAway/AdAway/releases/tag/v3.3) | Open-source ad blocker | Blocks all ads, system-wide, works on older devices | Doesn't recieve updates anymore | Root + Nonroot | AdAway | 2.3+ |
 | [AdAway v4](https://github.com/AdAway/AdAway/releases/tag/v4.3.6) | Open-source ad blocker | Blocks all ads, system-wide, works on older devices | Legacy version, slower than v5, doesn't recieve app updates anymore | Root + Nonroot | AdAway | 4.1+ |
 | [AdAway v5](https://adaway.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | AdAway | 8.0+ |
-| [Blokada 4](https://blokada.org/) | Open-source ad blocker | Works on older devices | Legacy version, slower than Blokada 4. | Root + Nonroot | Blocka AB | 5.0+ |
+| [Blokada 4](https://blokada.org/) | Open-source ad blocker | Works on older devices | Legacy version, slower than Blokada 5. | Root + Nonroot | Blocka AB | 5.0+ |
 | [Blokada 5](https://blokada.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | Blocka AB | 7.0+ |
 | [Dolby Atmos](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module) | Dolby Atmos equalizer for Android | Works both with and without headphones, has presets for different types of content | Improper installation can cause bootloops | Root | reiryuki | 9.0+ |
 | [F-Droid](https://f-droid.org/) | An alternative app store | Only has FOSS apps by default | The UI looks outdated | Nonroot | F-Droid Limited | 5.1+ |

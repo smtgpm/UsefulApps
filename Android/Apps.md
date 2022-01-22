@@ -5,14 +5,16 @@
 | [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client | Modern UI, more repositories to choose from | None | Nonroot | AuroraOSS | 5.0+ |
 | [AdAway v3](https://github.com/AdAway/AdAway/releases/tag/v3.3) | Open-source ad blocker | Blocks all ads, system-wide, works on older devices | Doesn't recieve updates anymore | Root + Nonroot | AdAway | 2.3+ |
 | [AdAway v4](https://github.com/AdAway/AdAway/releases/tag/v4.3.6) | Open-source ad blocker | Blocks all ads, system-wide, works on older devices | Legacy version, slower than v5, doesn't recieve app updates anymore | Root + Nonroot | AdAway | 4.1+ |
-| [AdAway v5](https://adaway.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | AdAway | 8.0+ |
-| [Blokada 4](https://blokada.org/) | Open-source ad blocker | Works on older devices | Legacy version, slower than Blokada 5. | Root + Nonroot | Blocka AB | 5.0+ |
-| [Blokada 5](https://blokada.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | Blocka AB | 7.0+ |
+| [AdAway v5](https://adaway.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Nonroot | AdAway | 8.0+ |
+| [Blokada 4](https://blokada.org/#download) | Open-source ad blocker | Works on older devices | Legacy version, slower than Blokada 5. Uses VPN | Nonroot | Blocka AB | 5.0+ |
+| [Blokada 5](https://blokada.org/#download) | Open-source ad blocker | Blocks all ads, system-wide | Uses VPN | Nonroot | Blocka AB | 7.0+ |
+| [Blokada 5 Slim](https://blokada.org/#download) | Open-source ad blocker | Light version of Blokada 5 | Uses VPN | Nonroot | Blokada AB | 7.0+ |
 | [Dolby Atmos](https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module) | Dolby Atmos equalizer for Android | Works both with and without headphones, has presets for different types of content | Improper installation can cause bootloops | Root | reiryuki | 9.0+ |
 | [Droid-ify](https://github.com/Iamlooker/Droid-ify) | A 3rd party F-Droid client | UI based on Material Design, cleaner than F-Droid | None | Nonroot | Iamlooker | 5.0+ |
 | [F-Droid](https://f-droid.org/) | An alternative app store | Only has FOSS apps by default | The UI looks outdated | Nonroot | F-Droid Limited | 5.1+ |
 | [GCam 8.1+](https://www.celsoazevedo.com/files/android/google-camera/) | A port of the Google Camera app | Gives significantly better picture quality | Doesn't work well on Exynos, MediaTek or Kirin devices | Nonroot | multiple | 10.0+ |
 | [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Ad blocking, image downloading, allows for seeing messages without marking them as "read" | None | Nonroot | TheDise | 5.0+ |
+| [Magisk Manager](https://github.com/topjohnwu/Magisk) | THE root manager | Easy root installation/uninstallation, root access management | None | Root | Topjohnwu | 5.0+ |
 | [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer | Supports many cloud services (MEGA, MediaFire, Google Drive, Dropbox, Yandex, etc.), simple design | None | Root + Nonroot | HootanParsa | 2.2+ | 
 | [Nekogram X](https://github.com/NekoX-Dev/NekoX) | Open-source Telegram client | Message translation, Material UI, custom emoji font + too many QOL features to list | None | Nonroot | NekoX-Dev | 4.1+ |
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | The UI looks outdated | Nonroot | Team NewPipe | 4.4+ |

@@ -1,6 +1,6 @@
 # Useful Android Apps
 
-This is an actively maintained list of useful Android apps. Some really good apps are not available on the Play Store, that's why this list was created
+This is an actively maintained list of useful Android apps. This list was created because a lot of useful apps are not available on the Google Play Store.
 
 ## Platforms
 | Platform | List |

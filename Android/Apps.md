@@ -5,7 +5,7 @@
 | [Aurora Droid](https://f-droid.org/en/packages/com.aurora.adroid/) | A 3rd party F-Droid client | Modern UI, more repositories to choose from | None | Nonroot | AuroraOSS | 5.0+ |
 | [AdAway v3](https://github.com/AdAway/AdAway/releases/tag/v3.3) | Open-source ad blocker | Blocks all ads, system-wide, works on older devices | Not supported anymore | Root + Nonroot | AdAway | 2.3+ |
 | [AdAway v4](https://github.com/AdAway/AdAway/releases/tag/v4.3.6) | Open-source ad blocker | Blocks all ads, system-wide, works on older devices | Legacy version, slower than v5, doesn't recieve app updates anymore | Root + Nonroot | AdAway | 4.1+ |
-| [AdAway v5](https://adaway.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Nonroot | AdAway | 8.0+ |
+| [AdAway v5](https://adaway.org/) | Open-source ad blocker | Blocks all ads, system-wide | Nonroot option is VPN-Based | Root + Nonroot | AdAway | 8.0+ |
 | [Blokada 4](https://blokada.org/#download) | Open-source ad blocker | Works on older devices | Legacy version, slower than Blokada 5. Uses VPN | Nonroot | Blocka AB | 5.0+ |
 | [Blokada 5](https://blokada.org/#download) | Open-source ad blocker | Blocks all ads, system-wide | Uses VPN | Nonroot | Blocka AB | 7.0+ |
 | [Blokada 5 Slim](https://blokada.org/#download) | Open-source ad blocker | Lightweight version of Blokada 5 | Uses VPN | Nonroot | Blokada AB | 7.0+ |

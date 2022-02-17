@@ -19,6 +19,8 @@
 | [Nekogram X](https://github.com/NekoX-Dev/NekoX) | Open-source Telegram client | Message translation, Material UI, custom emoji font + too many QOL features to list | None | Nonroot | NekoX-Dev | 4.1+ |
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | None | Nonroot | Team NewPipe | 4.4+ |
 | [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | None | Nonroot | Team NewPipe | 4.1+ |
+| [NewPipe w/SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) | A fork of NewPipe | Same as NewPipe + SponsorBlock and ReturnYouTubeDislike | None | Nonroot | polymorphicshade | 4.4+ |
+| [Shizuku](https://github.com/RikkaApps/Shizuku) | ADB permission manager | Makes granting ADB permissions easier | Requires the user to grant ADB permissions first | Nonroot | RikkaApps | 6.0+ | 
 | [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | Allows securely transfering files between Android, iOS, MacOS, Linux and Windows, for free | None | Nonroot | Didla | 5.0+ |
 | [Vpier4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Equalizer, compressor, Gain + many more, much greater control over sound quality than Dolby Atmos | None | Root | Team DeWitt | 6.0+ |
 | [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) | Free and modern equalizer for Android | Simple to use, doesn't require root | None | Nonroot | Team DeWitt | 9.0+ |

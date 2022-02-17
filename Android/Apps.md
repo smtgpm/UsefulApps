@@ -18,7 +18,7 @@
 | [Magisk Manager](https://github.com/topjohnwu/Magisk) | THE root manager | Easy root installation/uninstallation, root access management | None | Root | Topjohnwu | 5.0+ |
 | [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) | Backup tool | Easy app, data and settings backup creator/manager | None | Root | BaltiApps | 5.0+ |
 | [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer | Supports many cloud services (MEGA, MediaFire, Google Drive, Dropbox, Yandex, etc.), simple design | None | Root + Nonroot | HootanParsa | 2.2+ |
-| [Naptime] | Doze manager | Speeds up Android's built-in "Doze" feature | None | Root + Nonroot | Francisco Franco | 7.0+ |
+| [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) | Doze manager | Speeds up Android's built-in "Doze" feature | None | Root + Nonroot | Francisco Franco | 7.0+ |
 | [Nekogram X](https://github.com/NekoX-Dev/NekoX) | Open-source Telegram client | Message translation, Material UI, custom emoji font + too many QOL features to list | None | Nonroot | NekoX-Dev | 4.1+ |
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | None | Nonroot | Team NewPipe | 4.4+ |
 | [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | None | Nonroot | Team NewPipe | 4.1+ |

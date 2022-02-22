@@ -24,8 +24,8 @@
 | [NewPipe](https://newpipe.net/) | Ad-free YouTube, Soundcloud, PeerTube, Bandcamp and media.ccc.de client | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | None | Nonroot | Team NewPipe | 4.4+ |
 | [NewPipe Legacy](https://newpipe.net/) | Legacy version of NewPipe | Ad blocking, video/audio downloading, custom video speed, region changing, etc. | None | Nonroot | Team NewPipe | 4.1+ |
 | [NewPipe w/SponsorBlock](https://github.com/polymorphicshade/NewPipe/releases) | A fork of NewPipe | Same as NewPipe + SponsorBlock and ReturnYouTubeDislike | None | Nonroot | polymorphicshade | 4.4+ |
-| [QuickSwitch](https://github.com/skittles9823/QuickSwitch) | Quickstep enabler for any supported launcher | Enables gesture navigation on supported 3rd party launchers | None | skittles9823 | 9.0+ |
-| [Simple Mobile Tools](https://www.simplemobiletools.com/) | A collection of open-source apps | These apps can replace the stock apps on your phone, while respecting your privacy | None | Tibor Kaputa | 5.0+ / 6.0+ |
+| [QuickSwitch](https://github.com/skittles9823/QuickSwitch) | Quickstep enabler for any supported launcher | Enables gesture navigation on supported 3rd party launchers | None | Root | skittles9823 | 9.0+ |
+| [Simple Mobile Tools](https://www.simplemobiletools.com/) | A collection of open-source apps | These apps can replace the stock apps on your phone, while respecting your privacy | None | Nonroot | Tibor Kaputa | 5.0+ / 6.0+ |
 | [Shizuku](https://github.com/RikkaApps/Shizuku) | ADB permission manager | Makes granting ADB permissions easier | Requires the user to grant ADB permissions first | Nonroot | RikkaApps | 6.0+ | 
 | [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | Allows securely transfering files between Android, iOS, MacOS, Linux and Windows, for free | None | Nonroot | Didla | 5.0+ |
 | [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum&hl=pl&gl=US) | A root-enabled theme manager | Easy theme management | None | Root | Projekt Development Team | 8.0+ |

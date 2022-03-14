@@ -16,6 +16,7 @@
 | [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify) | Hibernation mode manager | Greatly improves battery life by putting apps in "hibernation" | None | Root + Nonroot | Oasis Feng | 5.0+ |
 | [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Ad blocking, image downloading, allows for seeing messages without marking them as "read" | None | Nonroot | TheDise | 5.0+ |
 | [Kodi](https://github.com/xbmc/xbmc) | Open-source home theater software | Supports all kinds of media | None | Nonroot | XBMC Foundation | 5.0+ |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | FOSS YouTube client | Ad-free | Beta version, may not be completely stable | Nonroot | Libre-Tube | 5.0+ |
 | [Magisk Manager](https://github.com/topjohnwu/Magisk) | THE root manager | Easy root installation/uninstallation, root access management | None | Root | Topjohnwu | 5.0+ |
 | [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) | Backup tool | Easy app, data and settings backup creator/manager | None | Root | BaltiApps | 5.0+ |
 | [MiXPlorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) | A powerful, light-weight file explorer | Supports many cloud services (MEGA, MediaFire, Google Drive, Dropbox, Yandex, etc.), simple design | None | Root + Nonroot | HootanParsa | 2.2+ |
@@ -27,8 +28,10 @@
 | [QuickSwitch](https://github.com/skittles9823/QuickSwitch) | Quickstep enabler for any supported launcher | Enables gesture navigation on supported 3rd party launchers | None | Root | skittles9823 | 9.0+ |
 | [Simple Mobile Tools](https://www.simplemobiletools.com/) | A collection of open-source apps | These apps can replace the stock apps on your phone, while respecting your privacy | None | Nonroot | Tibor Kaputa | 5.0+ / 6.0+ |
 | [Shizuku](https://github.com/RikkaApps/Shizuku) | ADB permission manager | Makes granting ADB permissions easier | Requires the user to grant ADB permissions first | Nonroot | RikkaApps | 6.0+ | 
+| [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | FOSS YouTube client | Ad-free, supports channel blocking and video downloading | None | Nonroot | SkyTubeTeam | 4.0+ |
 | [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | Allows securely transfering files between Android, iOS, MacOS, Linux and Windows, for free | None | Nonroot | Didla | 5.0+ |
 | [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum&hl=pl&gl=US) | A root-enabled theme manager | Easy theme management | None | Root | Projekt Development Team | 8.0+ |
-| [Vpier4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Equalizer, compressor, Gain + many more, much greater control over sound quality than Dolby Atmos | None | Root | Team DeWitt | 6.0+ |
+| [Viper4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Equalizer, compressor, Gain + many more, much greater control over sound quality than Dolby Atmos | None | Root | Team DeWitt | 6.0+ |
+| [VueTube](https://github.com/Frontesque/VueTube) | FOSS YouTube client | Ad-free, great design | Still in early stages of development, not usable at the moment | Nonroot | Frontesque | 5.0+ |
 | [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) | Free and modern equalizer for Android | Simple to use, doesn't require root | None | Nonroot | Team DeWitt | 9.0+ |
 | [XManager for Spotify](https://github.com/xManager-v2/xManager-Spotify) | Ad-free Spotify installer / manager | Simple to use, allows downgrading and updating an ad-free version of Spotify | None | Nonroot | xC3FFF0E | 5.0+ |

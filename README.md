@@ -7,4 +7,3 @@ This is an actively maintained list of useful Android apps. This list was create
 | :-: | :-: |
 | Android | [Available](Android/Apps.md) |
 | Android TV | [Available](Android/Apps-TV.md) |
-| Android Wear (WearOS) | Not available |

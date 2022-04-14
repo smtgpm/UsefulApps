@@ -33,6 +33,6 @@
 | [Snapdrop](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop) | AirDrop alternative for non-Apple devices | Allows securely transfering files between Android, iOS, MacOS, Linux and Windows, for free | None | Nonroot | Didla | 5.0+ |
 | [Substratum](https://play.google.com/store/apps/details?id=projekt.substratum&hl=pl&gl=US) | A root-enabled theme manager | Easy theme management | None | Root | Projekt Development Team | 8.0+ |
 | [Viper4Android](https://forum.xda-developers.com/t/app-all-root-solutions-6-0-viper4android-fx-2-7.3774651/) | Sound enhancing mod for Android | Equalizer, compressor, Gain + many more, much greater control over sound quality than Dolby Atmos | None | Root | Team DeWitt | 6.0+ |
-| [VueTube](https://github.com/Frontesque/VueTube) | FOSS YouTube client | Ad-free | Still in early stages of development, not usable at the moment | Nonroot | Frontesque | 5.0+ |
+| [VueTube](https://vuetube.app/) | FOSS YouTube client | Ad-free | Still in early stages of development, not usable at the moment | Nonroot | Frontesque | 5.0+ |
 | [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) | Free and modern equalizer for Android | Simple to use, doesn't require root | None | Nonroot | Team DeWitt | 9.0+ |
 | [XManager for Spotify](https://github.com/xManager-v2/xManager-Spotify) | Ad-free Spotify installer / manager | Simple to use, allows downgrading and updating an ad-free version of Spotify | None | Nonroot | xC3FFF0E | 5.0+ |

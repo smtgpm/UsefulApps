@@ -1,6 +1,6 @@
 ## UsefulApps
 
-| Name | Description | Cons | Required OS modifications | Author | Operating System | License |
+| Name | Description | Cons | Required OS modifications/apps | Author | Operating System | License |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Droid-ify](https://github.com/Droid-ify/client) | A 3rd party F-Droid client with a clean, MaterialYou UI | None | None | Iamlooker | Android (5.0+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
 | [GCam Mods](https://www.celsoazevedo.com/files/android/google-camera/) | Ports of the Google Camera app for other devices, with additional features | Doesn't work well on Exynos, MediaTek or Kirin devices. Newer versions don't support devices with ArmV7-based CPUs | None | Arnova8G2, BSG, BigKaka, Hasli and others | Android (6.0+) | All Rights Reserved |
@@ -11,6 +11,6 @@
 | [ReVanced](https://revanced.app) | Patcher for apps such as YouTube, YT Music, Reddit, TikTok and more | Doesn't work on devices with ArmV7-based CPUs | Root (optional) | Team ReVanced | Android (6.0+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
 | [ReVanced Extended](https://github.com/inotia00/revanced-patches) | Additional ReVanced patches for YouTube, YT Music and Reddit | Doesn't work on devices with ArmV7-based CPUs | Root (optional) | inotia00 | Android (6.0+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
 | [SmartTube](https://github.com/yuliskov/SmartTubeNext) | Ad-free YouTube client for Android TV | Unknown | None | yuliskov | AndroidTV (4.3+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
-| [Vendetta](https://github.com/vendetta-mod/Vendetta) | A patcher for the Discord app | Unknown | Root/Jailbreak (optional) | maisymoe, wingio | Android (9.0+), iOS | [BSD-3-Clause License](https://www.tldrlegal.com/license/bsd-3-clause-license-revised) |
-| [VueTube](https://vuetube.app/) | Ad-free, open-source YouTube client | Unknown | None | Frontesque | Android (5.0+), iOS (12.5+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
+| [Vendetta](https://github.com/vendetta-mod/Vendetta) | A patcher for the Discord app | Unknown | Root/Jailbreak (optional), Sideloadly (iOS) | maisymoe, wingio | Android (9.0+), iOS | [BSD-3-Clause License](https://www.tldrlegal.com/license/bsd-3-clause-license-revised) |
+| [VueTube](https://vuetube.app/) | Ad-free, open-source YouTube client | Unknown | AltStore (iOS) | Frontesque | Android (5.0+), iOS (12.5+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
 | [xManager](https://github.com/Team-xManager/xManager) | Manager app for downloading modified versions of Spotify and Wave | Modified versions of Spotify don't have in-app downloads | None | xC3FFF0E | Android (5.0+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |

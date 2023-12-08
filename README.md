@@ -1,9 +1,5 @@
-# Useful Android Apps
+# Useful Apps
 
-This is an actively maintained list of useful Android apps. This list was created because a lot of useful apps are not available on the Google Play Store.
+This is an actively maintained list of useful apps for various operating systems. It contains a bunch of lesser-known apps, such as ones not available in official app stores like the Google Play Store.
 
-## Platforms
-| Platform | App list |
-| :-: | :-: |
-| Android | [Available](Android/Apps.md) |
-| Android TV | [Available](Android/Apps-TV.md) |
+## [View List](Apps.md)

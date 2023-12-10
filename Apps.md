@@ -2,6 +2,7 @@
 
 | Name | Description | Cons | Required OS modifications/apps | Author | Operating System | License |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Cloudstream](https://github.com/recloudstream/cloudstream) | Ad-free, open-source. Framework for managing real-time data streams in cloud environments. Basically stream anything on your phone or TV. | None | None | Cloudstream Team | Android, Android TV | [GPL-3](https://github.com/recloudstream/cloudstream/blob/master/LICENSE) |
 | [Droid-ify](https://github.com/Droid-ify/client) | A 3rd party F-Droid client with a clean, MaterialYou UI | None | None | Iamlooker | Android (5.0+) | [GPL-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3) |
 | [GCam Mods](https://www.celsoazevedo.com/files/android/google-camera/) | Ports of the Google Camera app for other devices, with additional features | Doesn't work well on Exynos, MediaTek or Kirin devices. Newer versions don't support devices with ArmV7-based CPUs | None | Arnova8G2, BSG, BigKaka, Hasli and others | Android (6.0+) | All Rights Reserved |
 | [Instander](https://thedise.me/instander/?setLng=en) | An ad-free Instagram client with many quality-of-life features | Unknown | None | TheDise | Android (9.0+) | All Rights Reserved |
